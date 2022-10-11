@@ -1,7 +1,7 @@
 
 # GeoLocation Tools WebApp
 
-website using php to track someone's location using gps
+a simple website built with php to track someone's location using gps
 
 
 ## Demo Website
