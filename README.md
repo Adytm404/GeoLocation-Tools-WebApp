@@ -11,7 +11,6 @@ https://getlo.nyancorp.tech/
 
 ## How to use
 
-To run this project, you will need to add the following environment variables to your .env file
 
 `1. Click "Generate" to get your token`
 
