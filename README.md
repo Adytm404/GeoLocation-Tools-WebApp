@@ -19,6 +19,18 @@ https://getlo.nyancorp.tech/
 `3. See result with input your token and click "Check result"`
 
 
+## Deployment
+
+To online this site: 
+
+```bash
+  Upload File on your VPS or Hosting Provider
+```
+```bash
+  Change name website on file index.php
+```
+
+
 ## Dashboard Generator
 
 ![App Screenshot](https://i.ibb.co/7nKKcTh/Cuplikan-layar-2022-10-12-000425.png)
@@ -31,18 +43,6 @@ https://getlo.nyancorp.tech/
 ## Fake Blog Article
 
 ![App Screenshot](https://i.ibb.co/61vMNNq/Cuplikan-layar-2022-10-12-000510.png)
-
-
-## Deployment
-
-To online this site: 
-
-```bash
-  Upload File on your VPS or Hosting Provider
-```
-```bash
-  Change name website on file index.php
-```
 
 
 ## Authors
