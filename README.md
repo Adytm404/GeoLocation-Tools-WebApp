@@ -1,12 +1,23 @@
 
 # GeoLocation Tools WebApp
 
-a simple website built with php to track someone's location using gps
+website using php to track someone's location using gps
 
 
 ## Demo Website
 
 https://getlo.nyancorp.tech/
+
+
+## How to use
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`1. Click "Generate" to get your token`
+
+`2. Share link to your friend`
+
+`3. See result with input your token and click "Check result"`
 
 
 ## Dashboard Generator
